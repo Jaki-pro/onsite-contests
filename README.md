@@ -1,7 +1,9 @@
 
 | Contest    | Username | Rank | Type |
 |----------|-----|--------|--------|
+| [CoU IT Fest Programming Contest - 2024](https://toph.co/contests/training/qjqle8v/standings)     | Lazy_Propagation!  | 1   | Team |
 | [Premier University Programming Contest, 2024](https://ibb.co/8PK92jP)     | CoU_Hello_World!  | 8   | Team |
+| [ICPC Asia Dhaka Regional Contest 2024](https://bapsoj.org/contests/icpc-asia-dhaka-regional-contest-2024-onsite-round/standings)     | CoU_Skadooosh2.0  | 109   | Team |
 | [IUT 11th National ICT Fest Programming Contest 2024](https://toph.co/c/iut-11th-national-ict-fest-2024/standings)    | Skadooosh  | 39  | Team |
 | [AHMED ZOBAYER INTER UNIVERSITY PROGRAMMING CONTEST, UITS](https://ibb.co/7NJRsj7)    | CoU_Hello_World!  | 24  | Team |
 | [National Collegiate Programming Contest ( NCPC ) Onsite 2023](https://bapsoj.org/contests/ncpc-onsite-2023-hosted-by-ju/standings)    | CoU_SegmentHero  | 148  | Team |
